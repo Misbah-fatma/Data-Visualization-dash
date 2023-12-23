@@ -1,5 +1,9 @@
 # Data Visualization Board
 # Made with Mern Stack
+# Visualization Dashboard Test Assignment : The objective of this assignment is to create a data visualization dashboard as per as instructions provided.
+
+Data Json file: jsondata.json
+
 # Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
